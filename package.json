@@ -18,10 +18,14 @@
   },
   "homepage": "https://github.com/iamshaunjp/node-crash-course#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "ejs": "^3.1.2",
     "express": "^4.17.1",
     "lodash": "^4.17.15",
     "mongoose": "^5.9.10",
-    "morgan": "^1.10.0"
+    "morgan": "^1.10.0",
+    "mysql2": "^2.3.3-rc.0",
+    "sequelize": "^6.9.0",
+    "socketio": "^1.0.0"
   }
 }
